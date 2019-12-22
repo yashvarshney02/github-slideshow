@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Do your best, aim for sky, land in stars.
 Use the left arrow to go back!
